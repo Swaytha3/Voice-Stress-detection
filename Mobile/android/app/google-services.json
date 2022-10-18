@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "332038829917",
+    "firebase_url": "https://chatbot-83d39-default-rtdb.firebaseio.com",
+    "project_id": "chatbot-83d39",
+    "storage_bucket": "chatbot-83d39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332038829917:android:99d1022d3e375e68739ab4",
+        "android_client_info": {
+          "package_name": "com.example.Relax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332038829917-48hgfqhvcvocebgf5cdmjocq9uugn1ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8nKH4U-iqPuqOOcAyoku_zWyinmx3Vn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332038829917-48hgfqhvcvocebgf5cdmjocq9uugn1ed.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332038829917-jnhgio58hbdf1p82p7eoio7f8ifsnu4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
